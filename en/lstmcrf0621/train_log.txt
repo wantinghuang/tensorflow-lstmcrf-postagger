@@ -1,0 +1,178 @@
+[PARAMETER SETTING] initial_learning_rate: 0.001000, lr_eps: 0.010000, lr_decay_rate: 0.700000, batch_size: 128, num_epoch: 35 
+start to load training_dt.json
+training_dt.json loaded. i/o time:111.82263636705466 seconds
+epoch: 1, training_dt0, train_op run time: 1366.1932889360469 seconds
+epoch: 1, training_dt0, calculating loss & acc run time: 356.6281690839678 seconds
+epoch: 1, loss: 11.204712867736816, training accuracy: 0.8503432619571686
+epoch: 1, testing accuracy: 0.8428210914134979, learing rate: 0.001, run time: 23.962272119009867 seconds
+epoch: 1, better model saved.
+epoch: 2, training_dt0, train_op run time: 1366.1832112770062 seconds
+epoch: 2, training_dt0, calculating loss & acc run time: 364.7485606248956 seconds
+epoch: 2, loss: 8.593527145385742, training accuracy: 0.8806516063213349
+epoch: 2, testing accuracy: 0.8760059252381325, learing rate: 0.001, run time: 21.53211205289699 seconds
+epoch: 2, better model saved.
+epoch: 3, training_dt0, train_op run time: 1382.2978885881603 seconds
+epoch: 3, training_dt0, calculating loss & acc run time: 368.28125722915865 seconds
+epoch: 3, loss: 7.297555475234986, training accuracy: 0.8942200767993927
+epoch: 3, testing accuracy: 0.8914684951305389, learing rate: 0.001, run time: 23.72531175496988 seconds
+epoch: 3, better model saved.
+epoch: 4, training_dt0, train_op run time: 1380.4392705850769 seconds
+epoch: 4, training_dt0, calculating loss & acc run time: 359.7044103690423 seconds
+epoch: 4, loss: 6.52414984703064, training accuracy: 0.9018376624584198
+epoch: 4, testing accuracy: 0.8987818211317062, learing rate: 0.001, run time: 23.658261789940298 seconds
+epoch: 4, better model saved.
+epoch: 5, training_dt0, train_op run time: 1387.1781767099164 seconds
+epoch: 5, training_dt0, calculating loss & acc run time: 362.4966241600923 seconds
+epoch: 5, loss: 5.998042984008789, training accuracy: 0.9069748723506927
+epoch: 5, testing accuracy: 0.9044553190469742, learing rate: 0.001, run time: 23.742754393955693 seconds
+epoch: 5, better model saved.
+epoch: 6, training_dt0, train_op run time: 1376.631421054015 seconds
+epoch: 6, training_dt0, calculating loss & acc run time: 350.8996298999991 seconds
+epoch: 6, loss: 5.563070831298828, training accuracy: 0.9119033122062683
+epoch: 6, testing accuracy: 0.90989650785923, learing rate: 0.001, run time: 25.481033696094528 seconds
+epoch: 6, better model saved.
+epoch: 7, training_dt0, train_op run time: 1383.1638757030014 seconds
+epoch: 7, training_dt0, calculating loss & acc run time: 350.5525356589351 seconds
+epoch: 7, loss: 5.228179025650024, training accuracy: 0.9159374904632568
+epoch: 7, testing accuracy: 0.9130410477519035, learing rate: 0.001, run time: 23.63336133188568 seconds
+epoch: 7, better model saved.
+epoch: 8, training_dt0, train_op run time: 1380.811995876953 seconds
+epoch: 8, training_dt0, calculating loss & acc run time: 366.08262537396513 seconds
+epoch: 8, loss: 4.94715838432312, training accuracy: 0.9195124304294586
+epoch: 8, testing accuracy: 0.9159470051527023, learing rate: 0.001, run time: 23.812296341871843 seconds
+epoch: 8, better model saved.
+epoch: 9, training_dt0, train_op run time: 1377.037087616045 seconds
+epoch: 9, training_dt0, calculating loss & acc run time: 337.68441360397264 seconds
+epoch: 9, loss: 4.715038270950317, training accuracy: 0.9226635313034057
+epoch: 9, testing accuracy: 0.9186159819364548, learing rate: 0.001, run time: 23.974443037994206 seconds
+epoch: 9, better model saved.
+epoch: 10, training_dt0, train_op run time: 1372.8694798750803 seconds
+epoch: 10, training_dt0, calculating loss & acc run time: 363.31845406792127 seconds
+epoch: 10, loss: 4.515571022033692, training accuracy: 0.9250960457324982
+epoch: 10, testing accuracy: 0.9217713326215744, learing rate: 0.001, run time: 25.86853370303288 seconds
+epoch: 10, better model saved.
+epoch: 11, training_dt0, train_op run time: 1374.368613564875 seconds
+epoch: 11, training_dt0, calculating loss & acc run time: 363.15271682315506 seconds
+epoch: 11, loss: 4.336458101272583, training accuracy: 0.9275208723545074
+epoch: 11, testing accuracy: 0.9235468581318855, learing rate: 0.001, run time: 25.419904917944223 seconds
+epoch: 11, better model saved.
+epoch: 12, training_dt0, train_op run time: 1383.401487227995 seconds
+epoch: 12, training_dt0, calculating loss & acc run time: 361.5219314759597 seconds
+epoch: 12, loss: 4.17865074634552, training accuracy: 0.9298150849342346
+epoch: 12, testing accuracy: 0.9258047640323639, learing rate: 0.001, run time: 25.4698814668227 seconds
+epoch: 12, better model saved.
+epoch: 13, training_dt0, train_op run time: 1439.6020430489443 seconds
+epoch: 13, training_dt0, calculating loss & acc run time: 357.4534300409723 seconds
+epoch: 13, loss: 4.058873276710511, training accuracy: 0.9308330416679382
+epoch: 13, testing accuracy: 0.926261305809021, learing rate: 0.001, run time: 21.636693961918354 seconds
+epoch: 13, better model saved.
+epoch: 14, training_dt0, train_op run time: 1444.1053782398812 seconds
+epoch: 14, training_dt0, calculating loss & acc run time: 367.73762310203165 seconds
+epoch: 14, loss: 3.924520812034607, training accuracy: 0.9325191462039948
+epoch: 14, testing accuracy: 0.9278054237365723, learing rate: 0.001, run time: 25.840437412960455 seconds
+epoch: 14, better model saved.
+epoch: 15, training_dt0, train_op run time: 1440.130190059077 seconds
+epoch: 15, training_dt0, calculating loss & acc run time: 360.19096758100204 seconds
+epoch: 15, loss: 3.823362793922424, training accuracy: 0.9340162777900696
+epoch: 15, testing accuracy: 0.9289170503616333, learing rate: 0.001, run time: 24.798797470983118 seconds
+epoch: 15, better model saved.
+epoch: 16, training_dt0, train_op run time: 1443.669883043971 seconds
+epoch: 16, training_dt0, calculating loss & acc run time: 361.82809544797055 seconds
+epoch: 16, loss: 3.708066120147705, training accuracy: 0.9361964964866638
+epoch: 16, testing accuracy: 0.9304029121994972, learing rate: 0.001, run time: 24.600804707966745 seconds
+epoch: 16, better model saved.
+epoch: 17, training_dt0, train_op run time: 1443.6807364630513 seconds
+epoch: 17, training_dt0, calculating loss & acc run time: 362.32340006507 seconds
+epoch: 17, loss: 3.62792019367218, training accuracy: 0.9370111799240113
+epoch: 17, testing accuracy: 0.9308466836810112, learing rate: 0.001, run time: 25.39618971105665 seconds
+epoch: 17, better model saved.
+epoch: 18, training_dt0, train_op run time: 1439.4550579770003 seconds
+epoch: 18, training_dt0, calculating loss & acc run time: 355.5500714890659 seconds
+epoch: 18, loss: 3.53706102848053, training accuracy: 0.9385526704788208
+epoch: 18, testing accuracy: 0.9319916367530823, learing rate: 0.001, run time: 24.6368378510233 seconds
+epoch: 18, better model saved.
+epoch: 19, training_dt0, train_op run time: 1443.6675852809567 seconds
+epoch: 19, training_dt0, calculating loss & acc run time: 363.4000028849114 seconds
+epoch: 19, loss: 3.4530219984054566, training accuracy: 0.9399161541461944
+epoch: 19, testing accuracy: 0.932749405503273, learing rate: 0.001, run time: 25.73990628309548 seconds
+epoch: 19, better model saved.
+epoch: 20, training_dt0, train_op run time: 1442.3763311479706 seconds
+epoch: 20, training_dt0, calculating loss & acc run time: 365.96658422402106 seconds
+epoch: 20, loss: 3.3720367431640623, training accuracy: 0.941288480758667
+epoch: 20, testing accuracy: 0.9329974874854088, learing rate: 0.001, run time: 23.543279482983053 seconds
+epoch: 20, better model saved.
+epoch: 21, training_dt0, train_op run time: 1438.4841386300977 seconds
+epoch: 21, training_dt0, calculating loss & acc run time: 365.57237602584064 seconds
+epoch: 21, loss: 3.3269492101669313, training accuracy: 0.9420901358127594
+epoch: 21, testing accuracy: 0.9338664934039116, learing rate: 0.001, run time: 25.50252455403097 seconds
+epoch: 21, better model saved.
+epoch: 22, training_dt0, train_op run time: 1444.4923218430486 seconds
+epoch: 22, training_dt0, calculating loss & acc run time: 350.37276413687505 seconds
+epoch: 22, loss: 3.260953941345215, training accuracy: 0.9425536239147186
+epoch: 22, testing accuracy: 0.9340925961732864, learing rate: 0.001, run time: 21.310684282099828 seconds
+epoch: 22, better model saved.
+epoch: 23, training_dt0, train_op run time: 1441.9412505121436 seconds
+epoch: 23, training_dt0, calculating loss & acc run time: 375.2985640228726 seconds
+epoch: 23, loss: 3.207885060310364, training accuracy: 0.94336794257164
+epoch: 23, testing accuracy: 0.9350292161107063, learing rate: 0.001, run time: 26.860801917035133 seconds
+epoch: 23, better model saved.
+epoch: 24, training_dt0, train_op run time: 1440.8174515129067 seconds
+epoch: 24, training_dt0, calculating loss & acc run time: 378.6503552990034 seconds
+epoch: 24, loss: 3.1530146694183347, training accuracy: 0.9444337439537048
+epoch: 24, testing accuracy: 0.9356033354997635, learing rate: 0.001, run time: 25.65809506503865 seconds
+epoch: 24, better model saved.
+epoch: 25, training_dt0, train_op run time: 1444.474312666105 seconds
+epoch: 25, training_dt0, calculating loss & acc run time: 374.58647763589397 seconds
+epoch: 25, loss: 3.0896565198898314, training accuracy: 0.945472651720047
+epoch: 25, testing accuracy: 0.9366988092660904, learing rate: 0.001, run time: 25.58842844888568 seconds
+epoch: 25, better model saved.
+epoch: 26, training_dt0, train_op run time: 1441.69261577609 seconds
+epoch: 26, training_dt0, calculating loss & acc run time: 378.3471570261754 seconds
+epoch: 26, loss: 3.04798068523407, training accuracy: 0.9462483620643616
+epoch: 26, testing accuracy: 0.9361677318811417, learing rate: 0.001, run time: 25.529515034984797 seconds
+epoch: 26, better model saved.
+epoch: 27, training_dt0, train_op run time: 1442.5980465100147 seconds
+epoch: 27, training_dt0, calculating loss & acc run time: 378.8945334521122 seconds
+epoch: 27, loss: 2.9966364908218384, training accuracy: 0.9469780254364014
+epoch: 27, testing accuracy: 0.9364148452877998, learing rate: 0.001, run time: 27.119753465987742 seconds
+epoch: 27, better model saved.
+epoch: 28, training_dt0, train_op run time: 1447.3617897450458 seconds
+epoch: 28, training_dt0, calculating loss & acc run time: 376.77841991977766 seconds
+epoch: 28, loss: 2.946701626777649, training accuracy: 0.9477290654182434
+epoch: 28, testing accuracy: 0.9371603950858116, learing rate: 0.001, run time: 25.53422996797599 seconds
+epoch: 28, better model saved.
+epoch: 29, training_dt0, train_op run time: 1444.7793244500645 seconds
+epoch: 29, training_dt0, calculating loss & acc run time: 387.07320172409527 seconds
+epoch: 29, loss: 2.9187996578216553, training accuracy: 0.9480422782897949
+epoch: 29, testing accuracy: 0.9365859553217888, learing rate: 0.001, run time: 23.672662683064118 seconds
+epoch: 29, better model saved.
+epoch: 30, training_dt0, train_op run time: 1438.6387829340529 seconds
+epoch: 30, training_dt0, calculating loss & acc run time: 369.2306051859632 seconds
+epoch: 30, loss: 2.845915822982788, training accuracy: 0.9496717309951782
+epoch: 30, testing accuracy: 0.9378066211938858, learing rate: 0.0007, run time: 27.011301459977403 seconds
+epoch: 30, better model saved.
+epoch: 31, training_dt0, train_op run time: 1444.0979654619005 seconds
+epoch: 31, training_dt0, calculating loss & acc run time: 372.79368445207365 seconds
+epoch: 31, loss: 2.809878067970276, training accuracy: 0.9502490127086639
+epoch: 31, testing accuracy: 0.9382566437125206, learing rate: 0.0007, run time: 25.652596936095506 seconds
+epoch: 31, better model saved.
+epoch: 32, training_dt0, train_op run time: 1445.0639460710809 seconds
+epoch: 32, training_dt0, calculating loss & acc run time: 380.8897543088533 seconds
+epoch: 32, loss: 2.7943308401107787, training accuracy: 0.950484277009964
+epoch: 32, testing accuracy: 0.9385998919606209, learing rate: 0.0007, run time: 26.91218466195278 seconds
+epoch: 32, better model saved.
+epoch: 33, training_dt0, train_op run time: 1448.1641548399348 seconds
+epoch: 33, training_dt0, calculating loss & acc run time: 376.2994666870218 seconds
+epoch: 33, loss: 2.7402650022506716, training accuracy: 0.9514724218845367
+epoch: 33, testing accuracy: 0.9385227262973785, learing rate: 0.00049, run time: 23.7927051121369 seconds
+epoch: 33, better model saved.
+epoch: 34, training_dt0, train_op run time: 1433.198027921142 seconds
+epoch: 34, training_dt0, calculating loss & acc run time: 379.7637077518739 seconds
+epoch: 34, loss: 2.7195620155334472, training accuracy: 0.9519661498069764
+epoch: 34, testing accuracy: 0.9388453289866447, learing rate: 0.00049, run time: 23.13482897100039 seconds
+epoch: 34, better model saved.
+epoch: 35, training_dt0, train_op run time: 1445.248556220904 seconds
+epoch: 35, training_dt0, calculating loss & acc run time: 379.00921975797974 seconds
+epoch: 35, loss: 2.6792528343200686, training accuracy: 0.9527349829673767
+epoch: 35, testing accuracy: 0.939307726919651, learing rate: 0.000343, run time: 25.789577232208103 seconds
+epoch: 35, better model saved.

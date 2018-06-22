@@ -1,0 +1,226 @@
+BE // verb 'to be', infinitive or imperative. E.g., be 
+VBG+TO // verb, present participle + infinitival to. E.g., gonna 
+WPS+HVZ // WH-pronoun, nominative + verb 'to have', present tense, 3rd person singular. E.g., who's that's 
+WRB+MD // WH-adverb + modal auxillary. E.g., where'd 
+NP$ // noun, singular, proper, genitive. E.g., Green's Landis' Smith's Carreon's Allison's Boston's Spahn's Willie's Mickey's Milwaukee's Mays' Howsam's Mantle's Shaw's Wagner's Rickey's Shea's Palmer's Arnold's Broglio's ... 
+BEZ* // verb 'to be', present tense, 3rd person singular, negated. E.g., isn't ain't 
+CS // conjunction, subordinating. E.g., that as after whether before while like because if since for than altho until so unless though providing once lest s'posin' till whereas whereupon supposing tho' albeit then so's 'fore 
+WRB+BER // WH-adverb + verb 'to be', present, 2nd person singular or all persons plural. E.g., where're 
+WDT // WH-determiner. E.g., which what whatever whichever whichever-the-hell 
+NP+HVZ // noun, singular, proper + verb 'to have', present tense, 3rd person singular. E.g., Bill's Guardino's Celie's Skolman's Crosson's Tim's Wally's 
+JJ // adjective. E.g., ecent over-all possible hard-fought favorable hard meager fit such widespread outmoded inadequate ambiguous grand clerical effective orderly federal foster general proportionate ... 
+WRB+BEZ // WH-adverb + verb 'to be', present, 3rd person singular. E.g., how's where's 
+WDT+DOD // WH-determiner + verb 'to do', past tense. E.g., what'd 
+AP$ // determiner/pronoun, post-determiner, genitive. E.g., other's 
+WPS+HVD // WH-pronoun, nominative + verb 'to have', past tense. E.g., who'd 
+PPS // pronoun, personal, nominative, 3rd person singular. E.g., it he she thee 
+NR$ // noun, singular, adverbial, genitive. E.g., Saturday's Monday's yesterday's tonight's tomorrow's Sunday's Wednesday's Friday's today's Tuesday's West's Today's South's 
+WPS+BEZ // WH-pronoun, nominative + verb 'to be', present, 3rd person singular. E.g., that's who's 
+( // opening parenthesis. E.g., ( 
+VBD // verb, past tense. E.g., said produced took recommended commented urged found added praised charged listed became announced brought attended wanted voted defeated received got stood shot scheduled feared promised made ... 
+PPSS+BER // pronoun, personal, nominative, not 3rd person singular + verb 'to be', present tense, 2nd person singular or all persons plural. E.g., we're you're they're 
+DT+MD // determiner/pronoun + modal auxillary. E.g., that'll this'll 
+NNS$ // noun, plural, common, genitive. E.g., taxpayers' children's members' States' women's cutters' motorists' steelmakers' hours' Nations' lawyers' prisoners' architects' tourists' Employers' secretaries' Rogues' ... 
+PPSS+BEM // pronoun, personal, nominative, not 3rd person singular + verb 'to be', present tense, 1st person singular. E.g., I'm Ahm 
+FW-PP$ // foreign word: determiner, possessive. E.g., mea mon deras vos 
+RB // adverb. E.g., only often generally also nevertheless upon together back newly no likely meanwhile near then heavily there apparently yet outright fully aside consistently specifically formally ever just ... 
+RN // adverb, nominal. E.g., here afar then 
+FW-RB+CC // foreign word: adverb + conjunction, coordinating. E.g., forisque 
+NNS // noun, plural, common. E.g., irregularities presentments thanks reports voters laws legislators years areas adjustments chambers $100 bonds courts sales details raises sessions members congressmen votes polls calls ... 
+PPSS+MD // pronoun, personal, nominative, not 3rd person singular + modal auxillary. E.g., you'll we'll I'll we'd I'd they'll they'd you'd 
+FW-PPS // foreign word: pronoun, personal, nominative, 3rd person singular. E.g., il 
+FW-AT+NN // foreign word: article + noun, singular, common. E.g., l'orchestre l'identite l'arcade l'ange l'assistance l'activite L'Universite l'independance L'Union L'Unita l'osservatore 
+TO+VB // infinitival to + verb, infinitive. E.g., t'jawn t'lah 
+DOD* // verb 'to do', past tense, negated. E.g., didn't 
+NN$ // noun, singular, common, genitive. E.g., season's world's player's night's chapter's golf's football's baseball's club's U.'s coach's bride's bridegroom's board's county's firm's company's superintendent's mob's Navy's ... 
+NPS // noun, plural, proper. E.g., Chases Aderholds Chapelles Armisteads Lockies Carbones French Marskmen Toppers Franciscans Romans Cadillacs Masons Blacks Catholics British Dixiecrats Mississippians Congresses ... 
+MD* // modal auxillary, negated. E.g., cannot couldn't wouldn't can't won't shouldn't shan't mustn't musn't 
+PPLS // pronoun, plural, reflexive. E.g., themselves ourselves yourselves 
+IN+IN // preposition, hyphenated pair. E.g., f'ovuh 
+FW-CS // foreign word: conjunction, subordinating. E.g., bevor quam ma 
+FW-AT+NP // foreign word: article + noun, singular, proper. E.g., L'Astree L'Imperiale 
+FW-PPSS // foreign word: pronoun, personal, nominative, not 3rd person singular. E.g., ich vous sie je 
+FW-PPL // foreign word: pronoun, singular, reflexive. E.g., se 
+FW-DT+BEZ // foreign word: determiner + verb 'to be', present tense, 3rd person singular. E.g., c'est 
+FW-PPO // pronoun, personal, accusative. E.g., lui me moi mi 
+-- // dash. E.g., -- 
+OD // numeral, ordinal. E.g., first 13th third nineteenth 2d 61st second sixth eighth ninth twenty-first eleventh 50th eighteenth- Thirty-ninth 72nd 1/20th twentieth mid-19th thousandth 350th sixteenth 701st ... 
+PP$$ // pronoun, possessive. E.g., ours mine his hers theirs yours 
+NNS+MD // noun, plural, common + modal auxillary. E.g., duds'd oystchers'll 
+PN+HVZ // pronoun, nominal + verb 'to have', present tense, 3rd person singular. E.g., nobody's somebody's one's 
+PPSS+HVD // pronoun, personal, nominative, not 3rd person singular + verb 'to have', past tense. E.g., I'd you'd we'd they'd 
+FW-DT // foreign word: determiner/pronoun, singular. E.g., hoc 
+HVZ* // verb 'to have', present tense, 3rd person singular, negated. E.g., hasn't ain't 
+RBR+CS // adverb, comparative + conjunction, coordinating. E.g., more'n 
+VB+AT // verb, base: uninflected present or infinitive + article. E.g., wanna 
+NN+HVD // noun, singular, common + verb 'to have', past tense. E.g., Pa'd 
+DTI // determiner/pronoun, singular or plural. E.g., any some 
+PPS+HVZ // pronoun, personal, nominative, 3rd person singular + verb 'to have', present tense, 3rd person singular. E.g., it's he's she's 
+BEN // verb 'to be', past participle. E.g., been 
+BEM // verb 'to be', present tense, 1st person singular. E.g., am 
+EX+BEZ // existential there + verb 'to be', present tense, 3rd person singular. E.g., there's 
+HV // verb 'to have', uninflected present tense, infinitive or imperative. E.g., have hast 
+BEG // verb 'to be', present participle or gerund. E.g., being 
+BED // verb 'to be', past tense, 2nd person singular or all persons plural. E.g., were 
+JJR // adjective, comparative. E.g., greater older further earlier later freer franker wider better deeper firmer tougher faster higher bigger worse younger lighter nicer slower happier frothier Greater newer Elder ... 
+BEZ // verb 'to be', present tense, 3rd person singular. E.g., is 
+DTX // determiner, pronoun or double conjunction. E.g., neither either one 
+FW-WDT // foreign word: WH-determiner. E.g., quo qua quod que quok 
+BER // verb 'to be', present tense, 2nd person singular or all persons plural. E.g., are art 
+FW-RB // foreign word: adverb. E.g., bas assai deja um wiederum cito velociter vielleicht simpliciter non zu domi nuper sic forsan olim oui semper tout despues hors 
+WRB+DOD // WH-adverb + verb 'to do', past tense. E.g., where'd how'd 
+DTS+BEZ // pronoun, plural + verb 'to be', present tense, 3rd person singular. E.g., them's 
+NN+HVZ // noun, singular, common + verb 'to have', present tense, 3rd person singular. E.g., guy's Knife's boat's summer's rain's company's 
+BEM* // verb 'to be', present tense, 1st person singular, negated. E.g., ain't 
+FW-BEZ // foreign word: verb 'to be', present tense, 3rd person singular. E.g., ist est 
+FW-CC // foreign word: conjunction, coordinating. E.g., et ma mais und aber och nec y 
+PP$ // determiner, possessive. E.g., our its his their my your her out thy mine thine 
+EX+HVZ // existential there + verb 'to have', present tense, 3rd person singular. E.g., there's 
+FW-CD // foreign word: numeral, cardinal. E.g., une cinq deux sieben unam zwei 
+FW-BER // foreign word: verb 'to be', present tense, 2nd person singular or all persons plural. E.g., sind sunt etes 
+EX+HVD // existential there + verb 'to have', past tense. E.g., there'd 
+WQL // WH-qualifier. E.g., however how 
+JJR+CS // adjective + conjunction, coordinating. E.g., lighter'n 
+NN+MD // noun, singular, common + modal auxillary. E.g., cowhand'd sun'll 
+BEDZ // verb 'to be', past tense, 1st and 3rd person singular. E.g., was 
+NP+BEZ // noun, singular, proper + verb 'to be', present tense, 3rd person singular. E.g., W.'s Ike's Mack's Jack's Kate's Katharine's Black's Arthur's Seaton's Buckhorn's Breed's Penny's Rob's Kitty's Blackwell's Myra's Wally's Lucille's Springfield's Arlene's 
+PN // pronoun, nominal. E.g., none something everything one anyone nothing nobody everybody everyone anybody anything someone no-one nothin 
+BER* // verb 'to be', present tense, 2nd person singular or all persons plural, negated. E.g., aren't ain't 
+WPS+MD // WH-pronoun, nominative + modal auxillary. E.g., who'll that'd who'd that'll 
+WP$ // WH-pronoun, genitive. E.g., whose whosever 
+BED* // verb 'to be', past tense, 2nd person singular or all persons plural, negated. E.g., weren't 
+VBN+TO // verb, past participle + infinitival to. E.g., gotta 
+WRB+IN // WH-adverb + preposition. E.g., why'n 
+FW-UH // foreign word: interjection. E.g., sayonara bien adieu arigato bonjour adios bueno tchalo ciao o 
+EX // existential there. E.g., there 
+PPSS+BEZ // pronoun, personal, nominative, not 3rd person singular + verb 'to be', present tense, 3rd person singular. E.g., you's 
+WPS // WH-pronoun, nominative. E.g., that who whoever whosoever what whatsoever 
+VBZ // verb, present tense, 3rd person singular. E.g., deserves believes receives takes goes expires says opposes starts permits expects thinks faces votes teaches holds calls fears spends collects backs eliminates sets flies gives seeks reads ... 
+MD // modal auxillary. E.g., should may might will would must can could shall ought need wilt 
+FW-TO+VB // foreign word: infinitival to + verb, infinitive. E.g., d'entretenir 
+FW-BE // foreign word: verb 'to be', infinitive or imperative. E.g., sit 
+VB+JJ // verb, base: uninflected present, imperative or infinitive + adjective. E.g., die-dead 
+DT$ // determiner/pronoun, singular, genitive. E.g., another's 
+AP+AP // determiner/pronoun, post-determiner, hyphenated pair. E.g., many-much 
+FW-VBN // foreign word: verb, past participle. E.g., vue verstrichen rasa verboten engages 
+PPS+BEZ // pronoun, personal, nominative, 3rd person singular + verb 'to be', present tense, 3rd person singular. E.g., it's he's she's 
+MD+TO // modal auxillary + infinitival to. E.g., oughta 
+CD$ // numeral, cardinal, genitive. E.g., 1960's 1961's .404's 
+HV* // verb 'to have', uninflected present tense or imperative, negated. E.g., haven't ain't 
+VBG // verb, present participle or gerund. E.g., modernizing improving purchasing Purchasing lacking enabling pricing keeping getting picking entering voting warning making strengthening setting neighboring attending participating moving ... 
+RB+CS // adverb + conjunction, coordinating. E.g., well's soon's 
+IN // preposition. E.g., of in for by considering to on among at through with under into regarding than since despite according per before toward against as after during including between without except upon out over ... 
+VBN // verb, past participle. E.g., conducted charged won received studied revised operated accepted combined experienced recommended effected granted seen protected adopted retarded notarized selected composed gotten printed ... 
+DOD // verb 'to do', past tense. E.g., did done 
+, // comma. E.g., , 
+DOZ // verb 'to do', present tense, 3rd person singular. E.g., does 
+FW-PPSS+HV // foreign word: pronoun, personal, nominative, not 3rd person singular + verb 'to have', present tense, not 3rd person singular. E.g., j'ai 
+EX+MD // existential there + modal auxillary. E.g., there'll there'd 
+WDT+DO+PPS // WH-determiner + verb 'to do', uninflected present tense + pronoun, personal, nominative, not 3rd person singular. E.g., whaddya 
+FW-HV // foreign word: verb 'to have', present tense, not 3rd person singular. E.g., habe 
+NN+NN // noun, singular, common, hyphenated pair. E.g., stomach-belly 
+JJ$ // adjective, genitive. E.g., Great's 
+FW-AT // foreign word: article. E.g., la le el un die der ein keine eine das las les Il 
+NN // noun, singular, common. E.g., failure burden court fire appointment awarding compensation Mayor interim committee fact effect airport management surveillance jail doctor intern extern night weekend duty legislation Tax Office ... 
+FW-PN // foreign word: pronoun, nominal. E.g., hoc 
+* // negator. E.g., not n't 
+. // sentence terminator. E.g., . ? ; ! : 
+WPO // WH-pronoun, accusative. E.g., whom that who 
+WRB+DOZ // WH-adverb + verb 'to do', present tense, 3rd person singular. E.g., how's 
+FW-NNS // foreign word: noun, plural, common. E.g., al culpas vopos boites haflis kolkhozes augen tyrannis alpha-beta-gammas metis banditos rata phis negociants crus Einsatzkommandos kamikaze wohaws sabinas zorrillas palazzi engages coureurs corroborees yori Ubermenschen ... 
+NP // noun, singular, proper. E.g., Fulton Atlanta September-October Durwood Pye Ivan Allen Jr. Jan. Alpharetta Grady William B. Hartsfield Pearl Williams Aug. Berry J. M. Cheshire Griffin Opelika Ala. E. Pelham Snodgrass ... 
+NR // noun, singular, adverbial. E.g., Friday home Wednesday Tuesday Monday Sunday Thursday yesterday tomorrow tonight West East Saturday west left east downtown north northeast southeast northwest North South right ... 
+: // colon. E.g., : 
+FW-PPO+IN // foreign word: pronoun, personal, accusative + preposition. E.g., mecum tecum 
+FW-NN$ // foreign word: noun, singular, common, genitive. E.g., corporis intellectus arte's dei aeternitatis senioritatis curiae patronne's chambre's 
+WDT+BER // WH-determiner + verb 'to be', present tense, 2nd person singular or all persons plural. E.g., what're 
+FW-JJ // foreign word: adjective. E.g., avant Espagnol sinfonica Siciliana Philharmonique grand publique haute noire bouffe Douce meme humaine bel serieuses royaux anticus presto Sovietskaya Bayerische comique schwarzen ... 
+CC // conjunction, coordinating. E.g., and or but plus & either neither nor yet 'n' and/or minus an' 
+WDT+BEZ // WH-determiner + verb 'to be', present tense, 3rd person singular. E.g., what's 
+RP+IN // adverb, particle + preposition. E.g., out'n outta 
+CD // numeral, cardinal. E.g., two one 1 four 2 1913 71 74 637 1937 8 five three million 87-31 29-5 seven 1,119 fifty-three 7.5 billion hundred 125,000 1,700 60 100 six ... 
+DT+BEZ // determiner/pronoun + verb 'to be', present tense, 3rd person singular. E.g., that's 
+PPS+MD // pronoun, personal, nominative, 3rd person singular + modal auxillary. E.g., he'll she'll it'll he'd it'd she'd 
+RP // adverb, particle. E.g., up out off down over on in about through across after 
+BEDZ* // verb 'to be', past tense, 1st and 3rd person singular, negated. E.g., wasn't 
+DO+PPSS // verb 'to do', past or present tense + pronoun, personal, nominative, not 3rd person singular. E.g., d'you 
+DO* // verb 'to do', uninflected present tense or imperative, negated. E.g., don't 
+MD+PPSS // modal auxillary + pronoun, personal, nominative, not 3rd person singular. E.g., willya 
+HVN // verb 'to have', past participle. E.g., had 
+WRB+DO // WH-adverb + verb 'to do', present, not 3rd person singular. E.g., howda 
+FW-VBZ // foreign word: verb, present tense, 3rd person singular. E.g., gouverne sinkt sigue diapiace 
+JJT // adjective, superlative. E.g., best largest coolest calmest latest greatest earliest simplest strongest newest fiercest unhappiest worst youngest worthiest fastest hottest fittest lowest finest smallest staunchest ... 
+JJS // adjective, semantically superlative. E.g., top chief principal northernmost master key head main tops utmost innermost foremost uppermost paramount topmost 
+HVD // verb 'to have', past tense. E.g., had 
+HVG // verb 'to have', present participle or gerund. E.g., having 
+HVZ // verb 'to have', present tense, 3rd person singular. E.g., has hath 
+FW-VBD // foreign word: verb, past tense. E.g., stabat peccavi audivi 
+VB+TO // verb, base: uninflected present, imperative or infinitive + infinitival to. E.g., wanta wanna 
+FW-VBG // foreign word: verb, present participle or gerund. E.g., nolens volens appellant seq. obliterans servanda dicendi delenda 
+FW-JJT // foreign word: adjective, superlative. E.g., optimo 
+FW-JJR // foreign word: adjective, comparative. E.g., fortiori 
+DO // verb 'to do', uninflected present tense, infinitive or imperative. E.g., do dost 
+VB+VB // verb, base: uninflected present, imperative or infinitive; hypenated pair. E.g., say-speak 
+FW-DTS // foreign word: determiner/pronoun, plural. E.g., haec 
+FW-* // foreign word: negator. E.g., pas non ne 
+VB+RP // verb, imperative + adverbial particle. E.g., g'ahn c'mon 
+NPS$ // noun, plural, proper, genitive. E.g., Republicans' Orioles' Birds' Yanks' Redbirds' Bucs' Yankees' Stevenses' Geraghtys' Burkes' Wackers' Achaeans' Dresbachs' Russians' Democrats' Gershwins' Adventists' Negroes' Catholics' ... 
+RB+BEZ // adverb + verb 'to be', present tense, 3rd person singular. E.g., here's there's 
+PPSS // pronoun, personal, nominative, not 3rd person singular. E.g., they we I you ye thou you'uns 
+FW-NPS // foreign word: noun, plural, proper. E.g., Svenskarna Atlantes Dieux 
+DTS // determiner/pronoun, plural. E.g., these those them 
+VB+IN // verb, base: uninflected present, imperative or infinitive + preposition. E.g., lookit 
+WDT+BER+PP // WH-determiner + verb 'to be', present, 2nd person singular or all persons plural + pronoun, personal, nominative, not 3rd person singular. E.g., whaddya 
+FW-VB // foreign word: verb, present tense, not 3rd person singular, imperative or infinitive. E.g., nolo contendere vive fermate faciunt esse vade noli tangere dites duces meminisse iuvabit gosaimasu voulez habla ksu'u'peli'afo lacheln miuchi say allons strafe portant 
+WRB // WH-adverb. E.g., however when where why whereby wherever how whenever whereon wherein wherewith wheare wherefore whereof howsabout 
+DT // determiner/pronoun, singular. E.g., this each another that 'nother 
+PN$ // pronoun, nominal, genitive. E.g., one's someone's anybody's nobody's everybody's anyone's everyone's 
+PN+BEZ // pronoun, nominal + verb 'to be', present tense, 3rd person singular. E.g., nothing's everything's somebody's nobody's someone's 
+FW-IN+NP // foreign word: preposition + noun, singular, proper. E.g., d'Yquem d'Eiffel 
+PPSS+BEZ* // pronoun, personal, nominative, not 3rd person singular + verb 'to be', present tense, 3rd person singular, negated. E.g., 'tain't 
+) // closing parenthesis. E.g., ) 
+FW-PPL+VBZ // foreign word: pronoun, singular, reflexive + verb, present tense, 3rd person singular. E.g., s'excuse s'accuse 
+PPO // pronoun, personal, accusative. E.g., them it him me us you 'em her thee we'uns 
+WDT+HVZ // WH-determiner + verb 'to have', present tense, 3rd person singular. E.g., what's 
+PPL // pronoun, singular, reflexive. E.g., itself himself myself yourself herself oneself ownself 
+NN+BEZ // noun, singular, common + verb 'to be', present tense, 3rd person singular. E.g., water's camera's sky's kid's Pa's heat's throat's father's money's undersecretary's granite's level's wife's fat's Knife's fire's name's hell's leg's sun's roulette's cane's guy's kind's baseball's ... 
+TO // infinitival to. E.g., to t' 
+PPSS+VB // pronoun, personal, nominative, not 3rd person singular + verb 'to verb', uninflected present tense. E.g., y'know 
+FW-OD // foreign word: numeral, ordinal. E.g., 18e 17e quintus 
+RB$ // adverb, genitive. E.g., else's 
+FW-IN+NN // foreign word: preposition + noun, singular, common. E.g., d'etat d'hotel d'argent d'identite d'art 
+UH // interjection. E.g., Hurrah bang whee hmpf ah goodbye oops oh-the-pain-of-it ha crunch say oh why see well hello lo alas tarantara rum-tum-tum gosh hell keerist Jesus Keeeerist boy c'mon 'mon goddamn bah hoo-pig damn ... 
+FW-WPO // foreign word: WH-pronoun, accusative. E.g., quibusdam 
+VB+PPO // verb, uninflected present tense + pronoun, personal, accusative. E.g., let's lemme gimme 
+VB // verb, base: uninflected present, imperative or infinitive. E.g., investigate find act follow inure achieve reduce take remedy re-set distribute realize disable feel receive continue place protect eliminate elaborate work permit run enter force ... 
+WRB+DOD* // WH-adverb + verb 'to do', past tense, negated. E.g., whyn't 
+FW-IN // foreign word: preposition. E.g., ad de en a par con dans ex von auf super post sine sur sub avec per inter sans pour pendant in di 
+NP+MD // noun, singular, proper + modal auxillary. E.g., Gyp'll John'll 
+RBT // adverb, superlative. E.g., most best highest uppermost nearest brightest hardest fastest deepest farthest loudest ... 
+ABL // determiner/pronoun, pre-qualifier. E.g., quite such rather 
+RBR // adverb, comparative. E.g., further earlier better later higher tougher more harder longer sooner less faster easier louder farther oftener nearer cheaper slower tighter lower worse heavier quicker ... 
+ABN // determiner/pronoun, pre-quantifier. E.g., all half many nary 
+NR+MD // noun, singular, adverbial + modal auxillary. E.g., today'll 
+AP // determiner/pronoun, post-determiner. E.g., many other next more last former little several enough most least only very few fewer past same Last latter less single plenty 'nough lesser certain various manye next-to-last particular final previous present nuf 
+PPSS+HV // pronoun, personal, nominative, not 3rd person singular + verb 'to have', uninflected present tense. E.g., I've we've they've you've 
+AT // article. E.g., the an no a every th' ever' ye 
+DOZ* // verb 'to do', present tense, 3rd person singular, negated. E.g., doesn't don't 
+ABX // determiner/pronoun, double conjunction or pre-quantifier. E.g., both 
+HV+TO // verb 'to have', uninflected present tense + infinitival to. E.g., hafta 
+FW-WPS // foreign word: WH-pronoun, nominative. E.g., qui 
+NN+IN // noun, singular, common + preposition. E.g., buncha 
+JJ+JJ // adjective, hyphenated pair. E.g., big-large long-far 
+HVD* // verb 'to have', past tense, negated. E.g., hadn't 
+PPS+HVD // pronoun, personal, nominative, 3rd person singular + verb 'to have', past tense. E.g., she'd he'd it'd 
+FW-IN+AT // foreign word: preposition + article. E.g., della des du aux zur d'un del dell' 
+FW-QL // foreign word: qualifier. E.g., minus 
+FW-NP // foreign word: noun, singular, proper. E.g., Karshilama Dieu Rundfunk Afrique Espanol Afrika Spagna Gott Carthago deus 
+QLP // qualifier, post. E.g., indeed enough still 'nuff 
+FW-NR // foreign word: noun, singular, adverbial. E.g., heute morgen aujourd'hui hoy 
+FW-NN // foreign word: noun, singular, common. E.g., ballet esprit ersatz mano chatte goutte sang Fledermaus oud def kolkhoz roi troika canto boite blutwurst carne muzyka bonheur monde piece force ... 
+IN+PPO // preposition + pronoun, personal, accusative. E.g., t'hi-im 
+PN+HVD // pronoun, nominal + verb 'to have', past tense. E.g., nobody'd 
+NRS // noun, plural, adverbial. E.g., Sundays Mondays Saturdays Wednesdays Souths Fridays 
+MD+HV // modal auxillary + verb 'to have', uninflected form. E.g., shouldda musta coulda must've woulda could've 
+PN+MD // pronoun, nominal + modal auxillary. E.g., someone'll somebody'll anybody'd 
+QL // qualifier, pre. E.g., well less very most so real as highly fundamentally even how much remarkably somewhat more completely too thus ill deeply little overly halfway almost impossibly far severly such ... 
