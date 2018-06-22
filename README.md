@@ -8,7 +8,7 @@ Part-of-Speech (POS) tagging problem has been studied in the field of computatio
 ### Goal: train a POS tagger with neural network model
 
 ### Dataset: NLTK Brown Corpora
-There are 15 categories in Brown corpora[2](https://www.nltk.org/book/ch02.html), with 57340 english sentences and 472 tags.
+There are 15 categories in Brown corpora[2], with 57340 english sentences and 472 tags.
 We use the former 50000 sentences as training data and the rest as testing data.
 
 
@@ -83,10 +83,15 @@ compare LSTM, BLSTM, LSTM+CRF, BLSTM+CRF model and NLTK n-gram tagger[4]
 
 
 ## Reference
+
 [1] N-gram tagger is a "lookup tagger", which based on a simple statistical algorithm: for each token, assign the tag that is most likely for that particular token.
+
 [2] [NLTK Category]( https://www.nltk.org/book/ch02.html )
+
 [3] [Word2Vec and FastText Word Embedding with Gensim]( https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c )
+
 [4] [NLTK POS tagging]( https://www.nltk.org/book/ch05.html )
+
 [5] [POS Tagging (State of the art)]( https://aclweb.org/aclwiki/POS_Tagging_(State_of_the_art) )
 
 
