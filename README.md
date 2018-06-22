@@ -1,16 +1,47 @@
 # Tackling the POS tagging problem with Neural Network model 
 
-## User Story
 Part-of-Speech (POS) tagging problem has been studied in the field of computational lingustics for several years. N-gram tagger[1] is the most popular POS tagger in the past. As neural network model growing rapidly, let's consider training a POS tagger with neural network model.
+
+## Dependencies
+* python 3
+* modules
+    * TensorFlow 1.8.0
+    * json
+    * os
+    * numpy
+    * argparse
+    * string
+
+## Usage
+Type with such order in command line
+```
+> python preprocess.py
+> python word2vec.py
+> python train.py
+> python predict.py
+> python argv.py
+```
+
+## Sample Usage of argv.py 
+(after go through all steps above)
+```
+> python argv.py
+write down sentences and see the POS tags: (exit: enter "q")
+> yeah! it's friday. Let's celebrate tonight!
+yeah_NN !_. it_PPS 's_PPS+BEZ friday_JJ ._. Let_NN-TL-HL 's_NP$-HL celebrate_JJ tonight_NN !_.
+
+```
 
 ## Overview
 
-### Goal: train a POS tagger with neural network model
+### Goal
+train a POS tagger with neural network model
 
-### Dataset: NLTK Brown Corpora
+### Dataset
+NLTK Brown Corpora
+
 There are 15 categories in Brown corpora[2], with 57340 english sentences and 472 tags.
 We use the former 50000 sentences as training data and the rest as testing data.
-
 
 ### Preprocess Data
 Create 
@@ -30,7 +61,7 @@ per token accuracy
 
 preprocess data(1,2) --> model(3) --> trian(4) --> check learning curve & overfitting(7) --> check output label(5) --> interactive demo(6)
 
-* numbers refer to code, see APPENDIX
+* numbers in () refer to code number, see APPENDIX
 
 
 ## Parameter Setting
@@ -61,7 +92,6 @@ preprocess data(1,2) --> model(3) --> trian(4) --> check learning curve & overfi
 [true] But_CC very_QL mystical_JJ too_RB ._. 
 [pred] But_CC very_QL mystical_JJ too_NN ._. 
 ```
-![DEMO](https://i.imgur.com/9X20lLH.gif)
 
 
 #### Benchmarking
@@ -72,14 +102,14 @@ compare LSTM, BLSTM, LSTM+CRF, BLSTM+CRF model and NLTK n-gram tagger[4]
 |   model   | training accuracy | testing accuracy | training time (sec) per epoch|
 | --------- | ----------------- | ---------------- | ---------------------------- |
 |LSTM       |     0.90          |      0.89        |          230                 |
-|BLSTM      |     0.90          |      0.87        |          770                 |
+|BLSTM      |     0.90          |      0.87        |          350                 |
 |LSTM+CRF   |     0.94          |      0.91        |         1050                 |
 |BLSTM+CRF  |     0.93          |      0.90        |         1110                 |
 |NLTK n-gram|     0.96          |      0.90        |         11(total)            |
 
 
 #### LOSS & ACCURACY CURVE
-![lstmcrf_curve](https://i.imgur.com/os4udlh.png)
+![lstmcrf_curve](https://i.imgur.com/qkJiwaa.png)
 
 
 ## Reference
@@ -98,7 +128,7 @@ compare LSTM, BLSTM, LSTM+CRF, BLSTM+CRF model and NLTK n-gram tagger[4]
 
 ## APPENDIX
 
-### CODE
+### HOW THESE CODES WORK
 1. preprocess.py: Process original data to data_seg.txt and lebel_seg.txt. Also, split the training and texting data.
 
 2. word2vec.py: Train word embedding vector (fasttext & word2vec). Turn data_seg_train.txt + lebel_seg_train.txt into training_dt.json and testing_dt.json
