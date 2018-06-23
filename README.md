@@ -2,6 +2,8 @@
 
 Part-of-Speech (POS) tagging problem has been studied in the field of computational lingustics for several years. N-gram tagger[1] is the most popular POS tagger in the past. As neural network model growing rapidly, let's consider training a POS tagger with neural network model.
 
+![DEMO](https://giphy.com/gifs/5b5H6PUkrUWP3OCBVT/html5)
+
 ## Dependencies
 * python 3
 * modules
@@ -13,7 +15,7 @@ Part-of-Speech (POS) tagging problem has been studied in the field of computatio
     * string
 
 ## Usage
-Type with such order in command line
+Type in command line with such order
 ```
 > python preprocess.py
 > python word2vec.py
@@ -23,13 +25,12 @@ Type with such order in command line
 ```
 
 ## Sample Usage of argv.py 
-(after go through all steps above)
+after going through all steps above
 ```
 > python argv.py
 write down sentences and see the POS tags: (exit: enter "q")
 > yeah! it's friday. Let's celebrate tonight!
 yeah_NN !_. it_PPS 's_PPS+BEZ friday_JJ ._. Let_NN-TL-HL 's_NP$-HL celebrate_JJ tonight_NN !_.
-
 ```
 
 ## Overview
@@ -102,10 +103,10 @@ compare LSTM, BLSTM, LSTM+CRF, BLSTM+CRF model and NLTK n-gram tagger[4]
 |   model   | training accuracy | testing accuracy | training time (sec) per epoch|
 | --------- | ----------------- | ---------------- | ---------------------------- |
 |LSTM       |     0.90          |      0.89        |          230                 |
-|BLSTM      |     0.90          |      0.87        |          350                 |
-|LSTM+CRF   |     0.94          |      0.91        |         1050                 |
+|BLSTM      |     0.94          |      0.92        |          350                 |
+|LSTM+CRF   |     0.95          |      0.94        |         1050                 |
 |BLSTM+CRF  |     0.93          |      0.90        |         1110                 |
-|NLTK n-gram|     0.96          |      0.90        |         11(total)            |
+|NLTK n-gram|     0.96          |      0.90        |           11(total)          |
 
 
 #### LOSS & ACCURACY CURVE
