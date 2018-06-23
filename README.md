@@ -135,11 +135,16 @@ compare LSTM, BLSTM, LSTM+CRF, BLSTM+CRF model and NLTK n-gram tagger[4]
 2. word2vec.py: Train word embedding vector (fasttext & word2vec). Turn data_seg_train.txt + lebel_seg_train.txt into training_dt.json and testing_dt.json
 
 3. model
-      3.1 parameter.py: hyperparameter setting
-      3.2 model.py: LSTM model
-      3.3 model_biRNN.py: BLSTM model
-      3.4 model_LSTMCRF.py: LSTM+CRF model
-      3.5 model_BLSTMCRF.py: BLSTM+CRF model
+
+3.1 parameter.py: hyperparameter setting
+
+3.2 model.py: LSTM model
+
+3.3 model_biRNN.py: BLSTM model
+
+3.4 model_LSTMCRF.py: LSTM+CRF model
+
+3.5 model_BLSTMCRF.py: BLSTM+CRF model
 
 4. train.py: Train the model
 
