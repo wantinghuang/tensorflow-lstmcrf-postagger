@@ -105,7 +105,7 @@ compare LSTM, BLSTM, LSTM+CRF, BLSTM+CRF model and NLTK n-gram tagger[4]
 |LSTM       |     0.90          |      0.89        |          230                 |
 |BLSTM      |     0.94          |      0.92        |          350                 |
 |LSTM+CRF   |     0.95          |      0.94        |         1050                 |
-|BLSTM+CRF  |     0.93          |      0.90        |         1110                 |
+|BLSTM+CRF  |     0.95          |      0.94        |         1830                 |
 |NLTK n-gram|     0.96          |      0.90        |           11(total)          |
 
 
