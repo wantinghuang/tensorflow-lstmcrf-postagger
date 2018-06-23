@@ -47,7 +47,7 @@ We use the former 50000 sentences as training data and the rest as testing data.
 ### Preprocess Data
 Create 
 1. two files that seperate the word and its POS tag.
-2. word embedding usnig word2vec and fasttext using Gensim[3]. embedding size = 100。
+2. word embedding usnig word2vec and fasttext using Gensim[3]. embedding size = 100
 3. one hot encoding for POS tag 
 
 ### Modelling
@@ -109,7 +109,7 @@ compare LSTM, BLSTM, LSTM+CRF, BLSTM+CRF model and NLTK n-gram tagger[4]
 |NLTK n-gram|     0.96          |      0.90        |           11(total)          |
 
 
-#### LOSS & ACCURACY CURVE
+#### LOSS & ACCURACY CURVE for LSTMCRF model
 ![lstmcrf_curve](https://i.imgur.com/qkJiwaa.png)
 
 
