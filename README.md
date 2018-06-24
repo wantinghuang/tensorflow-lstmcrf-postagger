@@ -47,12 +47,13 @@ We use the former 50000 sentences as training data and the rest as testing data.
 ### Preprocess Data
 Create 
 1. two files that seperate the word and its POS tag.
-2. word embedding usnig word2vec and fasttext using Gensim[3]. embedding size = 100。
+2. word embedding using word2vec and fasttext in Gensim[3]. embedding size = 100。
 3. one hot encoding for POS tag 
 
 ### Modelling
 Use LSTM, BLSTM, LSTM+CRF, BLSTM+CRF models
-** BLSTM is short for bi-directional LSTM **
+
+* BLSTM is short for bi-directional LSTM *
 
 ### Evaluation
 per token accuracy
@@ -62,7 +63,7 @@ per token accuracy
 
 preprocess data(1,2) --> model(3) --> trian(4) --> check learning curve & overfitting(7) --> check output label(5) --> interactive demo(6)
 
-* numbers in () refer to code number, see APPENDIX
+* numbers in ( ) refer to code number, see APPENDIX
 
 
 ## Parameter Setting
@@ -135,11 +136,16 @@ compare LSTM, BLSTM, LSTM+CRF, BLSTM+CRF model and NLTK n-gram tagger[4]
 2. word2vec.py: Train word embedding vector (fasttext & word2vec). Turn data_seg_train.txt + lebel_seg_train.txt into training_dt.json and testing_dt.json
 
 3. model
-3.1 parameter.py: hyperparameter setting
-3.2 model.py: LSTM model
-3.3 model_biRNN.py: BLSTM model
-3.4 model_LSTMCRF.py: LSTM+CRF model
-3.5 model_BLSTMCRF.py: BLSTM+CRF model
+
+    3.1 parameter.py: hyperparameter setting
+
+    3.2 model.py: LSTM model
+
+    3.3 model_biRNN.py: BLSTM model
+
+    3.4 model_LSTMCRF.py: LSTM+CRF model
+
+    3.5 model_BLSTMCRF.py: BLSTM+CRF model
 
 4. train.py: Train the model
 
