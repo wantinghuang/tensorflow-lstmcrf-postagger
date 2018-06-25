@@ -41,7 +41,7 @@ train a POS tagger with neural network model
 ### Dataset
 NLTK Brown Corpora
 
-There are 15 categories in Brown corpora[2], with 57340 english sentences and 472 tags.
+There are 15 categories in Brown corpora[2], with 57340 english sentences and 472 tags[5].
 We use the former 50000 sentences as training data and the rest as testing data.
 
 ### Preprocess Data
@@ -126,8 +126,9 @@ compare LSTM, BLSTM, LSTM+CRF, BLSTM+CRF model and NLTK n-gram tagger[4]
 
 [4] [NLTK POS tagging]( https://www.nltk.org/book/ch05.html )
 
-[5] [POS Tagging (State of the art)]( https://aclweb.org/aclwiki/POS_Tagging_(State_of_the_art) )
+[5]  [brown POS tag]( https://en.wikipedia.org/wiki/Brown_Corpus#Part-of-speech_tags_used )
 
+[6] [POS Tagging (State of the art)]( https://aclweb.org/aclwiki/POS_Tagging_(State_of_the_art) )
 
 
 ## APPENDIX
