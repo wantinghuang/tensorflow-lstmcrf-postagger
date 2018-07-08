@@ -57,7 +57,7 @@ Use LSTM, BLSTM, LSTM+CRF, BLSTM+CRF models
 
 * BLSTM is short for bi-directional LSTM *
 
-![architecture of LSTMCRF model](https://i.imgur.com/SJXffBs.png){:height="80%" width="80%"}
+![architecture of LSTMCRF model](https://i.imgur.com/SJXffBs.png)
 
 ### Evaluation
 per token accuracy
