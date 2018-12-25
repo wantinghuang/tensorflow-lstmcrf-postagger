@@ -31,7 +31,7 @@ for sen in data:
 output.close()
 label.close()
 '''
-'''
+
 ###################################################
 ### split corpus into training and testing data ###
 ###################################################
@@ -61,7 +61,7 @@ with open('label_seg_train.txt','w',encoding='utf-8') as f:
 with open('label_seg_test.txt','w',encoding='utf-8') as f:
     for sen in label_seg_test:
         f.write(sen)
-'''
+
 ##################################
 ####---- label dictionary ----####
 ##################################
