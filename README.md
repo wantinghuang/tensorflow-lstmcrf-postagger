@@ -2,8 +2,6 @@
 
 Part-of-Speech (POS) tagging problem has been studied in the field of computational lingustics for several years. N-gram tagger[1] is the most popular POS tagger in the past. As neural network model growing rapidly, let's consider training a POS tagger with neural network model.
 
-![DEMO](https://media.giphy.com/media/5b5H6PUkrUWP3OCBVT/giphy.gif)
-
 ## Dependencies
 * python 3
 * modules
